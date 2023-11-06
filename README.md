@@ -12,16 +12,16 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017) para realizar un análisis de datos utilizando Python. 
+Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017) para realizar una serie de reportes en Power BI sobre el deporte automotriz Fórmula 1. Estos datos contienen información de los pilotos y equipos que han formado parte de la categoría desde sus inicios en 1950 hasta el año 2021. 
 
 
 ### Herramientas Utilizadas :wrench:
 - Power BI Desktop
   
 ### Estructura del Proyecto :open_file_folder:
-- **videojuegos.pbix:** Reporte de Power BI basado en los datos extraídos.
+- **f1_dashboard.pbix:** Reporte de Power BI basado en los datos extraídos.
   
 
 ### Cómo usar este proyecto :question:
 Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
-1. Abre el archivo `videojuegos.pbix` y explora el informe generado en Power BI.
+1. Abre el archivo `f1_dashboard.pbix` y explora el informe generado en Power BI.
