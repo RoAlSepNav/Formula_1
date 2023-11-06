@@ -22,6 +22,6 @@ Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kag
 - **f1_dashboard.pbix:** Reporte de Power BI basado en los datos extraídos.
   
 
-### Cómo usar este proyecto :question:
+### **Cómo usar este proyecto** :question:
 Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
 1. Abre el archivo `f1_dashboard.pbix` y explora el informe generado en Power BI.
