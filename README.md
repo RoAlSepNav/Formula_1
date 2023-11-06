@@ -12,7 +12,7 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ventas+Videojuegos.xlsx`, que alberga información relevante sobre la industria de los videojuegos.
+Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017) para realizar un análisis de datos utilizando Python. 
 
 
 ### Herramientas Utilizadas :wrench:
